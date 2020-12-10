@@ -1,7 +1,6 @@
 [Home](https://atlantarain.github.io/DCW_Portfolio/) | [Code Review](https://github.com/Atlantarain/DCW_Portfolio/code_review.html) | [Data Structures and Algorithms](https://atlantarain.github.io/DCW_Portfolio/data_structures.html) | [Software Engineering and Design](https://atlantarain.github.io/DCW_Portfolio/softeng_design.html) | [Databases](https://atlantarain.github.io/DCW_Portfolio/databases.html)
 
-You can use the [editor on GitHub](https://github.com/Atlantarain/DCW_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+## Self Assessment
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
