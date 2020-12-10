@@ -1,4 +1,4 @@
-[Home](https://atlantarain.github.io/DCW_Portfolio/) | [Code Review](CodeReview.md) | [Data Structures and Algorithms](https://atlantarain.github.io/DCW_Portfolio/data_structures.html) | [Software Engineering and Design](https://atlantarain.github.io/DCW_Portfolio/softeng_design.html) | [Databases](https://atlantarain.github.io/DCW_Portfolio/databases.html)
+[Home](README.md) [Code Review](CodeReview.md)  [Data Structures and Algorithms](data_structures.md)  [Software Engineering and Design](https://atlantarain.github.io/DCW_Portfolio/softeng_design.html)  [Databases](databases.md)
 
 ## Self Assessment
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
