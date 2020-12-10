@@ -1,4 +1,4 @@
-[Home](https://github.com/Atlantarain/DCW_Portfolio/README.md) | [Code Review](https://github.com/Atlantarain/DCW_Portfolio/code_review.html) | [Data Structures and Algorithms](https://github.com/Atlantarain/DCW_Portfolio/data_structures.html) | [Software Engineering and Design](https://github.com/Atlantarain/DCW_Portfolio/softeng_design.html) | [Databases](https://github.com/Atlantarain/DCW_Portfolio/databases.html)
+[Home](https://github.com/Atlantarain/DCW_Portfolio/README.md) | [Code Review](https://github.com/Atlantarain/DCW_Portfolio/code_review.html) | [Data Structures and Algorithms](https://atlantarain.github.io/DCW_Portfolio/data_structures.html) | [Software Engineering and Design](https://github.com/Atlantarain/DCW_Portfolio/softeng_design.html) | [Databases](https://github.com/Atlantarain/DCW_Portfolio/databases.html)
 
 You can use the [editor on GitHub](https://github.com/Atlantarain/DCW_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
