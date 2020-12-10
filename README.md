@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+[Home](https://github.com/Atlantarain/DCW_Portfolio/edit/main/README.md) | [Code Review](https://github.com/Atlantarain/DCW_Portfolio/edit/main/code_review.md) | [Data Structures and Algorithms](https://github.com/Atlantarain/DCW_Portfolio/edit/main/data_structures.md) | [Software Engineering and Design](https://github.com/Atlantarain/DCW_Portfolio/edit/main/softeng_design.md) | [Databases](https://github.com/Atlantarain/DCW_Portfolio/edit/main/databases.md)
 
 You can use the [editor on GitHub](https://github.com/Atlantarain/DCW_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
