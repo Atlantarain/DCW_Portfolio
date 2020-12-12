@@ -179,6 +179,8 @@ I chose this code because I felt it represents the foundation of a major project
 I believe I have met the objectives given. I wanted to enhance the project by showcasing 3D objects. Making them animated allows all sides of the object to be visible. I also wanted to update the textures but wasn’t getting the results I wanted.
 I faced some issues with texture using pre-made jpg. I ran into this issue during the class itself but didn’t have this time to fix it for this milestone. I felt I was overwhelming myself with the addition of textures. What I found interesting is how easy it to apply the animation. I believe in research. If you don’t know something, look it up. My first impressions of animation were complex but once I looked into it, I was pleased to see that I was wrong. I enjoyed adding animation and how it can enrich the objects in the environment.
 
+
+
 The enhancements below sets a starting angle for the two shapes and then sets each shape on a rotation that continues on a set pace. In doing this, each shape can be seen from all angles and the depth of the shapes can be seen. 
 ```
 GLfloat anglePyramid = 0.0f;   //Pyramid Rotates (enhancement)
