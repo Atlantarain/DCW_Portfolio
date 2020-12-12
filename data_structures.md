@@ -2,11 +2,11 @@
 
 <h1>Data Structures</h1>
 
- ## Narrative
+## Narrative
  
  This artifact is a simple C++ grading program. It is a easy to use grading system teachers can use to enter a student's grades and get the average and letter grade. This code was chosen was because I felt it was structured to be simple but yet very powerful program. Using the mathmatic coding to reach the desired results shows how structure is important to excuting the code. I customized the program to have five grades entered. Once they are entered, the program runs and a grade is given. 
  
- ## C++ Code Grading Program
+## C++ Code Grading Program
  
 ```
 #include<iostream>
@@ -68,12 +68,11 @@ int main()
 ```
 
 
-
 ## Enhancements
 
 This a simple reconstruction of the C++ grading program I used before but this time it is built using java. Having the ability to be flexible is important when trying to achieve a goal. I decided to convert the grading program from C++ to Java because it made more sense to me to present my knowledge of achieving the same goal through different means. This program again shows the algorithm of producing the mean of a sum of numbers. Though it is a simple program, it does show how effective the algorithm is and how productive the program can be for a teacher's grading technique. I believe I have met the objectives given. I wanted to enhance the project by showcasing my ability to achieve a goal in different ways. This ability is a crucial skill that will provide me support going forward in the real world working environment. This was something I find that I am very comfortable working in. Early in the program, I had the opportunity to work with both C++ and Java. They are my favorite languages to use and I tried to use them periodically to stay fluent in them. I found that my original set up names each assignment. I realized that it wouldn’t be needed because as long as each assignment's grade was entered correctly, the result would be right. So I simplified the java version and just names each assignment “subject”. 
 
-##Enhancement Java Grading Program
+## Enhancement Java Grading Program
 ```
 import java.util.Scanner;
 
