@@ -1,6 +1,6 @@
 [Home](README.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
 
-<center><img src="CSbanner.JPG"></center>
+<center><img src="CSbanner.jpg"></center>
 
 ## Self Assessment
 My time spent in the Computer Science Program at Southern New Hampshire University has allowed me to develop numerous skills and build my knowledge of programming languages, hardware and software development, and even important teamwork techniques. With the experience earned throughout this program and the formation of this ePortfolio, I was able to showcase my use of program languages in the forms of C++, Java, HTML, and SQL. I was also exposed to different operating systems as well as different testing techniques. All the knowledge and techniques I have absorbed over the last two years has prepared me for a career in computer science of information technology.
