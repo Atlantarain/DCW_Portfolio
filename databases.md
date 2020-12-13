@@ -87,16 +87,13 @@ INSERT INTO CUSTOMER VALUES ('C00016', 'Venkatpati', 'Bangalore', 'Bangalore', '
 INSERT INTO CUSTOMER VALUES ('C00011', 'Sundariya', 'Chennai', 'Chennai', 'India', '3', '7000.00', '11000.00', '7000.00', '11000.00', 'PPHGRTS', 'A010');
 ```
 <center><img src="499databaseAgents.JPG"></center>
-<p>
+
 <center><img src="499databaseCustomers.JPG"></center>
   
   
-<p>  
 ## Enhancement
 
-
 Enhancements have been made to a pre-existing database set. The database is for an insurance company. It is storing information on their agents, customers, and now order information. This is a great example of a real-life database that would be used in the everyday working environment. Anything that represents the everyday inner workings of small businesses is a great way to see how powerful these programs can be.
-
 
 I believe I have met the objectives given. I wanted to enhance the project by showcasing my ability to manipulate the database information as well as expand on the already set base of information. A column from the Agents table was removed and a new table was created for orders to expand the use of the database. This has been the most interesting artifact so far for me. As I look back on the course where I was introduced to SQL, I wasn’t a fan of it at the time. I felt overwhelmed at first but I hung in there and was able to finish the course with a better understanding. Revisiting SQL with this database. I have found that I really enjoyed manipulating the tables and felt comfortable early on. Like anything you haven't mastered, I ran into a speed bump here and there due to syntax and simple wording. Just had remind myself of the proper wording to manipulate the database and things started to move forward. As I get more practice with it, I am becoming more confidant.
 
@@ -159,6 +156,7 @@ INSERT INTO ORDERS VALUES('200128', '3500.00', '1500.00', '07/20/2008', 'C00009'
 INSERT INTO ORDERS VALUES('200135', '2000.00', '800.00', '09/16/2008', 'C00007', 'A010', 'SOD');
 INSERT INTO ORDERS VALUES('200131', '900.00', '150.00', '08/26/2008', 'C00012', 'A012', 'SOD');
 INSERT INTO ORDERS VALUES('200133', '1200.00', '400.00', '06/29/2008', 'C00009', 'A002', 'SOD');
+
 ```
 
 <p>
