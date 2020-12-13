@@ -84,9 +84,9 @@ INSERT INTO CUSTOMER VALUES ('C00014', 'Rangarappa', 'Bangalore', 'Bangalore', '
 INSERT INTO CUSTOMER VALUES ('C00016', 'Venkatpati', 'Bangalore', 'Bangalore', 'India', '2', '8000.00', '11000.00', '7000.00', '12000.00', 'JRTVFDD', 'A007');
 INSERT INTO CUSTOMER VALUES ('C00011', 'Sundariya', 'Chennai', 'Chennai', 'India', '3', '7000.00', '11000.00', '7000.00', '11000.00', 'PPHGRTS', 'A010');
 ```
-<center><img src="499DatabaseAgents"></center>
+<center><img src="499databaseAgents"></center>
 <p>
-<center><img src="499DatabaseCustomers"></center>
+<center><img src="499databaseCustomers"></center>
   
   
 ## Enhancement
