@@ -86,6 +86,7 @@ INSERT INTO CUSTOMER VALUES ('C00014', 'Rangarappa', 'Bangalore', 'Bangalore', '
 INSERT INTO CUSTOMER VALUES ('C00016', 'Venkatpati', 'Bangalore', 'Bangalore', 'India', '2', '8000.00', '11000.00', '7000.00', '12000.00', 'JRTVFDD', 'A007');
 INSERT INTO CUSTOMER VALUES ('C00011', 'Sundariya', 'Chennai', 'Chennai', 'India', '3', '7000.00', '11000.00', '7000.00', '11000.00', 'PPHGRTS', 'A010');
 ```
+
 <center><img src="499databaseAgents.JPG"></center>
 
 <center><img src="499databaseCustomers.JPG"></center>
@@ -101,8 +102,7 @@ I believe I have met the objectives given. I wanted to enhance the project by sh
 The enhancements below are use removing a column from the agents table and adding a new table called orders. 
 
 
-```SQL
-
+```
 /* To delete the section of "country (enhancement) */
 ALTER TABLE Agents DROP(country);
 
@@ -161,13 +161,8 @@ INSERT INTO ORDERS VALUES('200133', '1200.00', '400.00', '06/29/2008', 'C00009',
 
 
 
-
-
-<p>
-	
 	
 
 [Home](README.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
-<p>
 
 
