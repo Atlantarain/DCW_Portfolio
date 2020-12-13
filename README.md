@@ -12,7 +12,7 @@ As this self-assessment concludes, I will introduce what the rest of the ePortfo
 ### [Data Structures and Algorithms](data_structures.md)
 This artifact is a simple C++ grading program that allows teachers to input a student’s grades into the program to get an average and grade letter. It is then enhanced by being recreated in Java form.
 
-### [Software Engineering and Design](soften_design.md)
+### [Software Engineering and Design](softeng_design.md)
 This artifact is a C++ code creating a 3D cube and pyramid. This is a basic example of how objects are created in a virtual space. It is enhanced by adding animation to the shapes as they will spin in that virtual space.
 
 ### [Databases](databases.md)
