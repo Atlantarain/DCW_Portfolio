@@ -9,7 +9,7 @@ The artifact I want to use here is a final project from CS 330. I was asked to c
 
 ## C++ 3D Objects (Cube and Pyramid)
 
-```
+```C++
 #include <windows.h>  // for MS Windows
 #include <GL/glut.h>  // GLUT, include glu.h and gl.h
 
@@ -167,12 +167,7 @@ int main(int argc, char** argv) {
    glutMainLoop();                 // Enter the infinite event-processing loop
    return 0;
 }
-
 ```
-
-
-
-
 <center><img src="3DShapes.JPG"></center>
 
 
@@ -187,7 +182,7 @@ I faced some issues with texture using pre-made jpg. I ran into this issue durin
 
 
 The enhancements below sets a starting angle for the two shapes and then sets each shape on a rotation that continues on a set pace. In doing this, each shape can be seen from all angles and the depth of the shapes can be seen. 
-```
+```C++
 GLfloat anglePyramid = 0.0f;   //Pyramid Rotates (enhancement)
 GLfloat angleCube = 0.0f;      //Cube Rotates (enhancement)
 int refreshMills = 20;         //Refresh Interval in Milliseconds (enhancement)
