@@ -99,7 +99,7 @@ Enhancements have been made to a pre-existing database set. The database is for 
 I believe I have met the objectives given. I wanted to enhance the project by showcasing my ability to manipulate the database information as well as expand on the already set base of information. A column from the Agents table was removed and a new table was created for orders to expand the use of the database. This has been the most interesting artifact so far for me. As I look back on the course where I was introduced to SQL, I wasn’t a fan of it at the time. I felt overwhelmed at first but I hung in there and was able to finish the course with a better understanding. Revisiting SQL with this database. I have found that I really enjoyed manipulating the tables and felt comfortable early on. Like anything you haven't mastered, I ran into a speed bump here and there due to syntax and simple wording. Just had remind myself of the proper wording to manipulate the database and things started to move forward. As I get more practice with it, I am becoming more confidant.
 
 
-The enhancements below are use removing a column from the agents table and adding a new table called orders. 
+The enhancements below shows us altering the Agents table by removing a column and creating a new table called orders. 
 
 
 ```
