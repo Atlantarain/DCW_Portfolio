@@ -171,6 +171,10 @@ int main(int argc, char** argv) {
 
 ```
 
+<center><img src="3DShapes.JPG"></center>
+
+
+
 ## Enhancements
 
 The artifact is years old. It was originally designed as a basic introduction to creating 3D objects. It was a Program that creates a cube and a pyramid. With the enhancements, the 3b objects are better seen and represented in the 3d space. 
@@ -194,5 +198,10 @@ glRotatef(anglePyramid, 1.0f, 1.0f, 0.0f);  //Rotates (1,1,1) on axis (enhanceme
    anglePyramid += 0.2f;
    angleCube -= 0.15f;
 ```
+
+<center><img src="3dShapes.PNG"></center>
+
+
+
 
 [Home](README.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
