@@ -6,7 +6,9 @@
 
 My original plan was to create a database either using my family or possibly a jail inmate database. I would use fake names and information. I then found access to a database using premade information that I could mold. Using SQL, I created the Database using the instructions listed below. This will create two tables filled with information for a small business. One will hold Agent information as the other will hold customer information. 
 
-```SQL
+
+```
+
 /*Create a new table "Agents: */
 CREATE TABLE  "AGENTS" 
    (	
@@ -103,6 +105,7 @@ The enhancements below are use removing a column from the agents table and addin
 
 
 ```SQL
+
 /* To delete the section of "country (enhancement) */
 ALTER TABLE Agents DROP(country);
 
@@ -157,6 +160,7 @@ INSERT INTO ORDERS VALUES('200135', '2000.00', '800.00', '09/16/2008', 'C00007',
 INSERT INTO ORDERS VALUES('200131', '900.00', '150.00', '08/26/2008', 'C00012', 'A012', 'SOD');
 INSERT INTO ORDERS VALUES('200133', '1200.00', '400.00', '06/29/2008', 'C00009', 'A002', 'SOD');
 ```
+
 <p>
 
 [Home](README.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
