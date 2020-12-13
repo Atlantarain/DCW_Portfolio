@@ -100,6 +100,8 @@ I believe I have met the objectives given. I wanted to enhance the project by sh
 
 
 The enhancements below are use removing a column from the agents table and adding a new table called orders. 
+
+
 ```SQL
 /* To delete the section of "country (enhancement) */
 ALTER TABLE Agents DROP(country);
