@@ -91,7 +91,7 @@ INSERT INTO CUSTOMER VALUES ('C00011', 'Sundariya', 'Chennai', 'Chennai', 'India
 <center><img src="499databaseCustomers.JPG"></center>
   
   
-  
+<p>  
 ## Enhancement
 
 
