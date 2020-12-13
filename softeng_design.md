@@ -166,7 +166,8 @@ int main(int argc, char** argv) {
    glutTimerFunc(0, timer, 0);     // First timer call immediately (enhancement)
    glutMainLoop();                 // Enter the infinite event-processing loop
    return 0;
-}```
+}
+```
 
 <center><img src="3DShapes.JPG"></center>
 
@@ -193,7 +194,8 @@ glRotatef(anglePyramid, 1.0f, 1.0f, 0.0f);  //Rotates (1,1,1) on axis (enhanceme
 
 //Updates rotation angle after each refresh (enhancement)
    anglePyramid += 0.2f;
-   angleCube -= 0.15f;```
+   angleCube -= 0.15f;
+```
 
 <center><img src="3dShapes.PNG"></center>
 
