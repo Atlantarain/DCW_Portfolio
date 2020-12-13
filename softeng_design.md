@@ -167,10 +167,10 @@ int main(int argc, char** argv) {
    glutMainLoop();                 // Enter the infinite event-processing loop
    return 0;
 }
+
 ```
 
 <center><img src="3DShapes.JPG"></center>
-
 
 
 ## Enhancements
