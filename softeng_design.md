@@ -193,8 +193,7 @@ glRotatef(anglePyramid, 1.0f, 1.0f, 0.0f);  //Rotates (1,1,1) on axis (enhanceme
 
 //Updates rotation angle after each refresh (enhancement)
    anglePyramid += 0.2f;
-   angleCube -= 0.15f;
-```
+   angleCube -= 0.15f;```
 
 <center><img src="3dShapes.PNG"></center>
 
