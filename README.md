@@ -1,36 +1,19 @@
 [Home](README.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
 
 ## Self Assessment
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My time spent in the Computer Science Program at Southern New Hampshire University has allowed me to develop numerous skills and build my knowledge of programming languages, hardware and software development, and even important teamwork techniques. With the experience earned throughout this program and the formation of this ePortfolio, I was able to showcase my use of program languages in the forms of C++, Java, HTML, and SQL. I was also exposed to different operating systems as well as different testing techniques. All the knowledge and techniques I have absorbed over the last two years has prepared me for a career in computer science of information technology.
 
-### Markdown
+When it comes to collaborating in a team environment, I learned the importance of communication in the CS-250 Software Development Lifecycle course. Though the focus was on software development, lessons were learned on how important collaboration between team members is crucial to the successful development of a project. It allows me as a team member to know my role and my peer’s role to effectively communicate the right information to the correct team member. This practice saves money and time for a team and keeps projects on a proper timetable. This is where you can keep stakeholders happy as computer science is a business at the end of the day. You can think of stakeholders like investors and clients who fund the projects and work of computer science employees. Keeping them happy and secure is important so implementing these techniques is important to keep projects on time and budget. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data structures and algorithms, software engineering, database, and security will be our next topics. The first three are highly detailed in three artifacts presented in this ePortfolio but I will be discussing three other examples as well as talk more about security. CS-260 Data Structures and Algorithms taught me about the different types of structures used in development. These structures and algorithms give you a step-by-step template to set tasks to be executed for your desired output. This allows projects to be organized and becomes formulaic. As for software engineering, this is about the overall process of developing projects. The designing, the construction, and the testing process. I feel many courses throughout the program touched on that topic. When it comes to databases, I have real-life experience to thank for my understanding of databases. I was a correctional officer at a county jail where we used a CATS system to store information on inmates. I learned the syntax of that system and learned how to manipulate the database at a high level. When it was time to take DAD-220 Introduction to SQL, I felt extremely comfortable and learned even more about learning each database and its manipulation. Last would-be security. Again, most courses touched on the topic, but it was not until I took IT-320 Network Security did I understand the importance of security risks. With the growth of technology in our everyday lives, our personal information is at risk more than it ever has been. For every project whether is it a phone app or database for a jail, security measures have been to be made. If not, that program or project is at risk. Firewalls and authorization practices are always encouraged as technology grows; security must evolve with it.
 
-```markdown
-Syntax highlighted code block
+As this self-assessment concludes, I will introduce what the rest of the ePortfolio has to offer. There will be three artifacts that represent the three foundations of computer science. Alongside these three artifacts will be a code review video on each artifact. Each artifact is then enhanced in some way.
 
-# Header 1
-## Header 2
-### Header 3
+### [Data Structures and Algorithms](data_structures.md)
+This artifact is a simple C++ grading program that allows teachers to input a student’s grades into the program to get an average and grade letter. It is then enhanced by being recreated in Java form.
 
-- Bulleted
-- List
+### [Software Engineering and Design](soften_design.md)
+This artifact is a C++ code creating a 3D cube and pyramid. This is a basic example of how objects are created in a virtual space. It is enhanced by adding animation to the shapes as they will spin in that virtual space.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atlantarain/DCW_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Databases](databases.md)
+This is a database created in a SQL live environment. It is enhanced by adding a table and modifying a table by removing a column.
